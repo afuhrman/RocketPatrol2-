@@ -31,4 +31,4 @@ let keyW, keyS, keyA, keyD;
 // * Jim Whitehead (Multiplayer.js, line 42 )
 // * Hostiles Inbound [Epic Battle Music – Powerful Orchestral] by Miguel Johnson (https://www.chosic.com/download-audio/29436/) (Menu.js, line 12)
 // * https://stackoverflow.com/questions/34210393/looping-audio-in-phaser (Menu.js, lines 44-46)
-// * Concept of Singleplayer & Multiplayer being seprate scens by Jonathan Alvarez 
+// * Concept of Singleplayer & Multiplayer being separate scenes by Jonathan Alvarez 
